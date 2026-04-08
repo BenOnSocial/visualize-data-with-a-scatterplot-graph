@@ -4,6 +4,8 @@
 
 This project is part of my [Data Visualization V8 certification from freeCodeCamp](https://www.freecodecamp.org/certification/benonsocial/data-visualization).
 
+https://github.com/user-attachments/assets/9fb22e44-05bc-448a-b71d-b023567c482e
+
 ## Objective
 
 Build an app that is functionally similar to this: https://scatterplot-graph.freecodecamp.rocks.
