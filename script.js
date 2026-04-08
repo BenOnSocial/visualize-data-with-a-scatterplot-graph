@@ -1,5 +1,5 @@
 const dataset = await d3.json(
-  'https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/cyclist-data.json'
+  'data/cyclist-data.json'
 );
 dataset.forEach((d) => {
   const t = d.Time.split(':');
